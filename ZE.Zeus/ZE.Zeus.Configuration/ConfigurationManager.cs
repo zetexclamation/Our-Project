@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZE.Zeus.Manager
+namespace ZE.Zeus.Configuration
 {
-    public class Class1
+    public class ConfigurationManager
     {
     }
 }

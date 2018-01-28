@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ZE.Zeus.ViewModel
 {
-    public class Class1
+    /// <summary>
+    /// TextField Class represnt single-line text property
+    /// </summary>
+    public class TextField
     {
     }
 }

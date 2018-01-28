@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZE.Zeus.BaseSite", "ZE.Zeus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZE.Zeus.ITransformation", "ZE.Zeus.ITransformation\ZE.Zeus.ITransformation.csproj", "{AD58760F-2BEB-4ACC-825F-AB59DC9D9240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZE.Zeus.Configuration", "ZE.Zeus.Configuration\ZE.Zeus.Configuration.csproj", "{B31905DF-ECBB-4FFE-A4FA-923D000C2F38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{AD58760F-2BEB-4ACC-825F-AB59DC9D9240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD58760F-2BEB-4ACC-825F-AB59DC9D9240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD58760F-2BEB-4ACC-825F-AB59DC9D9240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31905DF-ECBB-4FFE-A4FA-923D000C2F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31905DF-ECBB-4FFE-A4FA-923D000C2F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31905DF-ECBB-4FFE-A4FA-923D000C2F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31905DF-ECBB-4FFE-A4FA-923D000C2F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
