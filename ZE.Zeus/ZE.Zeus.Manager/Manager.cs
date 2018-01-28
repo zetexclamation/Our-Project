@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZE.Zeus.IRepository
+namespace ZE.Zeus.Manager
 {
-    public class Class1
+    public class Manager
     {
     }
 }
